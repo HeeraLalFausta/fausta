@@ -1,0 +1,124 @@
+
+@media screen and (max-width: 992px) {
+    .video-bottem {
+        text-align: center;
+        color: #FB0000;
+        font-size: 55px;
+        margin-top: 10px;
+        margin-bottom: 21px;
+    }
+    .help {
+        text-align: center;
+        margin-top: 13%;
+        /* font-weight: 700; */
+        /* font-family: Carter One; */
+        font-style: italic;
+        font-size: 29px;
+        font-weight: 700;
+        font-family: 'Poppins',sans-serif;
+        color: #242a56;
+        margin-top: 103px;
+    }
+    .p2 {
+        text-align: center;
+        margin-top: -20px;
+    }
+    .help3{
+        margin-top: -58px !important;
+    }
+    .business-heading {
+        color: #242a56;
+        font-size: 37px;
+        font-weight: 700;
+        font-family: 'Poppins',sans-serif;
+        text-align: center;
+        margin-top: 45px;
+    }
+    .Growth {
+        color: #242a56;
+        font-weight: 700;
+        font-size: 23px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .yellow-heading {
+        margin-top: 50px;
+        margin-bottom: 20px;
+        font-size: 27px;
+    }
+    .work1{
+        font-size: 23px;
+    }
+    .work2 {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size: 17px;
+        /* font-weight: 200; */
+    }
+    .side-text {
+        margin-top: 30px;
+        margin-bottom: 22px;
+        font-size: 23px;
+        font-weight: 700;
+    }
+    .forms-color {
+        background-color: #ffdd00;
+        text-align: center;
+        font-style: italic;
+        font-size: 27px;
+        font-weight: 700;
+        margin-bottom: 30px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .testimonial-heading {
+        padding-top: 25px;
+        font-size: 37px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .work5{
+        width: 100%;
+    }
+    .about{
+        width: 100%;
+    }
+    .about1 {
+        font-size: 50px;
+        text-align: center;
+        font-weight: 700;
+        color: white;
+        margin-top: 115px;
+    }
+    .about-benner {
+        height: 514px;
+        opacity: 0.8;
+        background-image: linear-gradient(rgb(0 0 0 / 89%),rgb(0 0 0 / 82%)) , url(../img/about-bg-img.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-top: -56px;
+    }
+    .Process {
+        text-align: center;
+        margin-top: 13%;
+        /* font-weight: 700; */
+        /* font-family: Carter One; */
+        font-style: italic;
+        font-size: 25px;
+        font-weight: 700;
+        font-family: 'Poppins',sans-serif;
+        color: #242a56;
+    }
+    .form-head {
+        margin-top: 25px;
+        margin-bottom: 14px;
+        color: #242a56;
+        font-size: 28px;
+    }
+    .call {
+        font-size: 25px;
+        font-weight: 600;
+        color: #393a56;
+        /* margin-left: 29px; */
+    }
+  }
