@@ -445,6 +445,14 @@ a {
     color: #242a56;
     font-weight: 700;
 }
+.seo-head1{
+    padding-top: 100px;
+    /* text-align: center; */
+    font-size: 40px;
+    padding-bottom: 50px;
+    color: #242a56;
+    font-weight: 700;
+}
 .seo-pera1{
     margin-top: 35px;
 }
@@ -540,5 +548,37 @@ a {
     margin-bottom: 25px;
     font-weight: 700;
     color: #242a56;
+}
+.seo-heading10{
+    margin-top: 45px;
+    font-size: 30px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #242a56;
+}
+.seo-heading11{
+    margin-top: 45px;
+    font-size: 30px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #242a56;
+}
+.seo-heading12{
+    margin-top: 45px;
+    font-size: 30px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #242a56;
+}
+.seo1-pera{
+    margin-top: 50px;
+}
+.seo1-head1{
+    padding-top: 100px;
+    /* text-align: center; */
+    font-size: 40px;
+    padding-bottom: 50px;
+    color: #242a56;
+    font-weight: 700;
 }
 
