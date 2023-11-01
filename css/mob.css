@@ -121,4 +121,47 @@
         color: #393a56;
         /* margin-left: 29px; */
     }
+    .seo-head {
+        padding-top: 100px;
+        text-align: center;
+        font-size: 24px;
+        padding-bottom: 9px;
+        color: #242a56;
+        font-weight: 900;
+    }
+    .seo-heading5 {
+        margin-top: 45px;
+        font-size: 25px;
+        margin-bottom: 25px;
+        font-weight: 700;
+        color: #242a56;
+    }
+    .seo-heading6 {
+        margin-top: 45px;
+        font-size: 22px;
+        margin-bottom: 25px;
+        font-weight: 700;
+        color: #242a56;
+    }
+    .seo-heading7 {
+        margin-top: 45px;
+        font-size: 24px;
+        margin-bottom: 25px;
+        font-weight: 700;
+        color: #242a56;
+    }
+    .seo-heading8 {
+        margin-top: 45px;
+        font-size: 25px;
+        margin-bottom: 25px;
+        font-weight: 700;
+        color: #242a56;
+    }
+    .seo-heading9 {
+        margin-top: 45px;
+        font-size: 26px;
+        margin-bottom: 25px;
+        font-weight: 700;
+        color: #242a56;
+    }
   }
