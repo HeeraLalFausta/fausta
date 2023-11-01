@@ -613,4 +613,11 @@ a {
 .width{
     width: 75%;
 }
+.sm-img{
+    width: 100%;
+    height: 100%;
+}
+.sm-head{
+    margin-top: 50px;
+}
 
