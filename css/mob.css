@@ -193,4 +193,26 @@
         font-weight: 700;
         color: #242a56;
     }
+    .sm{
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        padding: 12px;
+        margin-top: 23px;
+        width: 100%;
+    }
+    .sm-heading {
+        color: #616179;
+        text-shadow: 0px 0px 0px rgba(0,0,0,0.3);
+        margin: 0px 0px 15px 0px;
+        font-family: "Roboto", Sans-serif;
+        font-size: 29px;
+        font-weight: 700;
+    }
+    .sm-headin1 {
+        font-weight: 700;
+        color: rgba(0,0,0,.5);
+        font-size: 21px;
+    }
+    .width{
+        width: 100%;
+    }
   }

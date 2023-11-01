@@ -581,4 +581,36 @@ a {
     color: #242a56;
     font-weight: 700;
 }
+.sm-heading{
+    color: #616179;
+    text-shadow: 0px 0px 0px rgba(0,0,0,0.3);
+    margin: 0px 0px 15px 0px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+.sm-headin1 {
+    font-weight: 700;
+    color: rgba(0,0,0,.5);
+    font-size: 23px;
+}
+.sm{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 12px;
+    margin-top: 23px;
+    width: 50%;
+}
+.sm-btn{
+    background-color: #558AD5;
+    padding-top: 14px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 14px;
+    border-radius: 32px;
+    color: white;
+    font-size: 18px;
+}
+.width{
+    width: 75%;
+}
 
