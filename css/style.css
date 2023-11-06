@@ -635,4 +635,14 @@ a {
     font-weight: 700;
     color: #242a56;
 }
+.website-img{
+    justify-content: center
+}
+.web-heading12 {
+    margin-top: 45px;
+    font-size: 16px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #242a56;
+}
 
